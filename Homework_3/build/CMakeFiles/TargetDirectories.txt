@@ -1,0 +1,3 @@
+C:/Users/TrapNelkit/Desktop/algorithms/Homework_3/build/CMakeFiles/Homework_3.dir
+C:/Users/TrapNelkit/Desktop/algorithms/Homework_3/build/CMakeFiles/edit_cache.dir
+C:/Users/TrapNelkit/Desktop/algorithms/Homework_3/build/CMakeFiles/rebuild_cache.dir

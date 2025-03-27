@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/TrapNelkit/Desktop/algorithms/Homework_3/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles\\Homework_3.dir\\src\\task2.cpp.obj -c C:\\Users\\TrapNelkit\\Desktop\\algorithms\\Homework_3\\src\\task2.cpp",
+  "file": "C:/Users/TrapNelkit/Desktop/algorithms/Homework_3/src/task2.cpp",
+  "output": "CMakeFiles/Homework_3.dir/src/task2.cpp.obj"
+}
+]
